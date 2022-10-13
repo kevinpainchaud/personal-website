@@ -10,7 +10,7 @@ export const ExperienceText = ({
 }: Experience) => (
   <div>
     <div className="md:mb-1">
-      <span className="font-bold text-slate-800 dark:text-white">
+      <span className="block font-bold text-slate-800 dark:text-white md:inline">
         {jobTitle}
       </span>{" "}
       <a href={companyWebsiteUrl} target="_blank">
