@@ -10,6 +10,7 @@
 
 - [React](https://reactjs.org)
 - [TypeScript](https://www.typescriptlang.org)
+- [Tailwind CSS](https://tailwindcss.com)
 - [Sass](https://sass-lang.com)
 - [Parcel.js](https://parceljs.org)
 
