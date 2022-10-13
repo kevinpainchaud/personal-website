@@ -1,0 +1,13 @@
+{
+  "include": ["src/**/*"],
+  "compilerOptions": {
+    "target": "es2021",
+    "module": "ES2020",
+    "moduleResolution": "Node",
+    "strict": true,
+    "experimentalDecorators": true,
+    "jsx": "react",
+    "allowSyntheticDefaultImports": true,
+    "skipLibCheck": true
+  }
+}

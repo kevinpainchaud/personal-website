@@ -1,0 +1,9 @@
+.header {
+  ul li a {
+    @apply text-slate-800 dark:text-white;
+
+    &:hover {
+      @apply text-blue-500;
+    }
+  }
+}

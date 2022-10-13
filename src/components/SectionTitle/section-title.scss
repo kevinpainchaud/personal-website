@@ -1,0 +1,6 @@
+.section-title:before {
+  @apply block bg-blue-500 rounded-full;
+  content: "";
+  height: 6px;
+  width: 6px;
+}
