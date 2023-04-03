@@ -42,7 +42,7 @@ export const secondaryExperiences: Experience[] = [
   {
     company: "Concept Image",
     companyWebsiteUrl: "https://www.concept-image.fr",
-    jobTitle: "Front-End Developer",
+    jobTitle: "Full-Stack Developer",
     period: "2013/2017 • 4 ans",
   },
   {
