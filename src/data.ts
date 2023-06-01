@@ -107,16 +107,13 @@ export const stackTechnologies: StackTechnology[] = [
     websiteUrl: "https://reactjs.org",
   },
   {
-    logoUrl: new URL(
-      "./assets/images/tanstack-query-logo.svg",
-      import.meta.url
-    ),
-    title: "TanStack Query",
+    logoUrl: new URL("./assets/images/tanstack-logo.svg", import.meta.url),
+    title: "TanStack",
     websiteUrl: "https://tanstack.com/query/latest",
   },
   {
-    logoUrl: new URL("./assets/images/tailwind-css-logo.svg", import.meta.url),
-    title: "Tailwind CSS",
+    logoUrl: new URL("./assets/images/tailwind-logo.svg", import.meta.url),
+    title: "Tailwind",
     websiteUrl: "https://tailwindcss.com",
   },
   {
@@ -130,11 +127,8 @@ export const stackTechnologies: StackTechnology[] = [
     websiteUrl: "https://nodejs.org",
   },
   {
-    logoUrl: new URL(
-      "./assets/images/github-actions-logo.svg",
-      import.meta.url
-    ),
-    title: "GitHub Actions",
+    logoUrl: new URL("./assets/images/actions-logo.svg", import.meta.url),
+    title: "Actions",
     websiteUrl: "https://github.com/features/actions",
   },
   {
