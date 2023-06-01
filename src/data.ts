@@ -108,21 +108,21 @@ export const stackTechnologies: StackTechnology[] = [
   },
   {
     logoUrl: new URL(
-      "./assets/images/styled-components-logo.svg",
+      "./assets/images/tanstack-query-logo.svg",
       import.meta.url
     ),
-    title: "SC",
-    websiteUrl: "https://styled-components.com",
+    title: "TanStack Query",
+    websiteUrl: "https://tanstack.com/query/latest",
   },
   {
-    logoUrl: new URL("./assets/images/sass-logo.svg", import.meta.url),
-    title: "Sass",
-    websiteUrl: "https://sass-lang.com",
+    logoUrl: new URL("./assets/images/tailwind-css-logo.svg", import.meta.url),
+    title: "Tailwind CSS",
+    websiteUrl: "https://tailwindcss.com",
   },
   {
-    logoUrl: new URL("./assets/images/webpack-logo.svg", import.meta.url),
-    title: "Webpack",
-    websiteUrl: "https://webpack.js.org",
+    logoUrl: new URL("./assets/images/vite-logo.svg", import.meta.url),
+    title: "Vite",
+    websiteUrl: "https://vitejs.dev",
   },
   {
     logoUrl: new URL("./assets/images/nodejs-logo.svg", import.meta.url),
@@ -130,9 +130,12 @@ export const stackTechnologies: StackTechnology[] = [
     websiteUrl: "https://nodejs.org",
   },
   {
-    logoUrl: new URL("./assets/images/circleci-logo.svg", import.meta.url),
-    title: "CircleCI",
-    websiteUrl: "https://circleci.com",
+    logoUrl: new URL(
+      "./assets/images/github-actions-logo.svg",
+      import.meta.url
+    ),
+    title: "GitHub Actions",
+    websiteUrl: "https://github.com/features/actions",
   },
   {
     logoUrl: new URL("./assets/images/docker-logo.svg", import.meta.url),
@@ -145,9 +148,9 @@ export const stackTechnologies: StackTechnology[] = [
     websiteUrl: "https://www.cypress.io",
   },
   {
-    logoUrl: new URL("./assets/images/jest-logo.svg", import.meta.url),
-    title: "Jest",
-    websiteUrl: "https://jestjs.io",
+    logoUrl: new URL("./assets/images/vitest-logo.svg", import.meta.url),
+    title: "Vitest",
+    websiteUrl: "https://vitest.dev",
   },
 ];
 
