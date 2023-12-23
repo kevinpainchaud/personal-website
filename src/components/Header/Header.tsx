@@ -24,15 +24,6 @@ export const Header = () => (
           <IoLogoLinkedin size={24} />
         </a>
       </li>
-      <li>
-        <a
-          href="https://twitter.com/kevinpainchaud"
-          target="_blank"
-          title="Twitter"
-        >
-          <IoLogoTwitter size={24} />
-        </a>
-      </li>
     </ul>
   </div>
 );
