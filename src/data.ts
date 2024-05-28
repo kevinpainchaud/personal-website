@@ -30,10 +30,10 @@ export const mainExperiences: Experience[] = [
     )}`,
   },
   {
-    company: "MaFormation.fr",
-    companyWebsiteUrl: "https://www.maformation.fr",
+    company: "HelloWork",
+    companyWebsiteUrl: "https://www.hellowork.com",
     jobTitle: "Front-End Developer",
-    logoUrl: new URL("./assets/images/maformation-logo.svg", import.meta.url),
+    logoUrl: new URL("./assets/images/hellowork-logo.svg", import.meta.url),
     period: "2017/2022 • 5 ans",
   },
 ];
