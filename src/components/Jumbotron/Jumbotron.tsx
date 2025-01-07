@@ -7,8 +7,8 @@ export const Jumbotron = () => (
   <p className="leading-9 text-md text-slate-800 dark:text-white md:leading-10 md:text-lg">
     Bonjour 👋,
     <br />
-    Je suis <span className="font-bold">Kévin Painchaud</span>, Front-End
-    Developer à Rennes.
+    Je suis <span className="font-bold">Kévin Painchaud</span>, Lead Front-End
+    Developer.
     <br />
     Depuis un peu plus de {dayjs().diff(
       dates.firstExperienceStartDate,
